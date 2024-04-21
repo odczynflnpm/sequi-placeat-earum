@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@odczynflnpm/sequi-placeat-earum",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/odczynflnpm/sequi-placeat-earum.git"
   },
   "dependencies": {
+    "@diahkomalasarinpm/itaque-nesciunt-vel-recusandae": "^1.0.0",
+    "@odczynflnpm/hic-laboriosam-dolore": "^1.0.0",
+    "@odczynflnpm/quas-inventore-quam": "^1.0.0",
+    "@odczynflnpm/repellendus-modi-quas": "^1.0.0",
+    "@wemnyelezxnpm/accusamus-vitae-quam-et": "^1.0.0"
   }
 }
